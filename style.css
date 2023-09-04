@@ -5574,7 +5574,7 @@ header.stop .top-header {
   font-family: "Circular Std", sans-serif;
   font-style: normal;
   font-weight: 450;
-  font-size: 17px;
+  font-size: 14px;
   line-height: 32px;
   text-transform: capitalize;
   color: #696969;
@@ -5618,8 +5618,8 @@ header.stop .top-header {
 }
 
 .features-wrapper .features-banner {
-  height: 471px;
-  background-color: #eee;
+  height: 420px;
+  background-color: #fff;
   border-radius: 7px;
   width: 100%;
 }
@@ -12445,8 +12445,8 @@ header.stop .top-header {
 
 .footer-4 {
   z-index: 1;
-  padding-top: 145px;
-  margin-top: -145px;
+  /* padding-top: 145px; */
+  /* margin-top: -145px; */
   position: relative;
   background-color: #211e3b;
 }
