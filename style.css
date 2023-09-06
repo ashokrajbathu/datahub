@@ -3618,12 +3618,10 @@ header.header-5 .top-header .lan-select select {
 }
 header.header-5 .main-header-wraper {
   left: 0;
-  top: 50px;
   width: 100%;
   z-index: 1030;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  position: fixed !important;
   padding: 0px 50px;
   position: relative;
   background-color: #FFF;
